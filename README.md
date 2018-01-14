@@ -5,7 +5,7 @@ Here you can see the 4 constructed plots. Separated png files were added to this
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](plo1.png) 
+![plot of chunk unnamed-chunk-2](plot1.png) 
 
 
 ### Plot 2
